@@ -215,9 +215,6 @@ To remove the deployed infrastructure from your account:
 
 1. Go to the AWS Amplify console and delete the web app.
 
-## Reporting security issues
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
 ## License
 
